@@ -8,7 +8,7 @@ image:
   repository: adil22/argocd-practice
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 9d84882e8d4653a0db186d471bbd840aa3b981bc
+  tag: 3b533b970b71f774a054b8f833d548fb4605e842
 
 imagePullSecrets: []
 nameOverride: ""
